@@ -1,0 +1,19 @@
+{
+  "name": "httprequestpackage",
+  "version": "1.0.0",
+  "description": "Scripting HTTP Requests with the Request Package Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "package"
+  ],
+  "author": "Max Nechaev",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
